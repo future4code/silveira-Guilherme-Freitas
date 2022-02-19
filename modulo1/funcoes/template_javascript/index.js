@@ -95,6 +95,9 @@ function letra() {
  console.log(`Frase maíscula: ${fraseMaiscula}, tamanho da frase: ${tamanhoFrase}`)
 }
 
+const ab = 2 % 1
+console.log("resultado", ab)
+
 letra()
 
 //  3 
